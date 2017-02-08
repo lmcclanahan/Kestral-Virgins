@@ -1,0 +1,6 @@
+C:\xampp\htdocs\ideaProjects\bonveracartnew\ShoppingCart\bin\ShoppingCart.dll.config
+C:\xampp\htdocs\ideaProjects\bonveracartnew\ShoppingCart\bin\ShoppingCart.dll
+C:\xampp\htdocs\ideaProjects\bonveracartnew\ShoppingCart\bin\ShoppingCart.pdb
+C:\xampp\htdocs\ideaProjects\bonveracartnew\ShoppingCart\obj\Debug\ShoppingCart.csprojResolveAssemblyReference.cache
+C:\xampp\htdocs\ideaProjects\bonveracartnew\ShoppingCart\obj\Debug\ShoppingCart.dll
+C:\xampp\htdocs\ideaProjects\bonveracartnew\ShoppingCart\obj\Debug\ShoppingCart.pdb
